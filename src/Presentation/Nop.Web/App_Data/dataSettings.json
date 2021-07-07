@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "your-connection-string",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}
